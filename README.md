@@ -1,5 +1,7 @@
 # Simple contract interaction example
 
+This repository reproduces an example of interaction between contracts in Etherlink which finished with error.
+
 This repository contains two simple smart contracts written in solidity:
 - Counter: which allows to setNumber to any uint256 and increment number
 - Caller: which allows to setNumber for a given counter contract providing its address as one of the parameters
